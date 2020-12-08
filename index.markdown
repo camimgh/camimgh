@@ -31,3 +31,12 @@ Es evidente que la conquista española de las Filipinas tiene un impacto fuertem
 ![Filipino Culture](https://img.theculturetrip.com/wp-content/uploads/2019/10/w2t6xm.jpg)
 # Conclusion
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-POmv3FexR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Fuentes
+Constantino, Renato. (2008). *A History of The Philippines.*
+
+von Eisiedel, Nathaniel. "Colonization's Impact On Manila." *Positively Filipino.* 5 February 2020. 05 December 2020.
+
+Merchant, Pranav. (2009). Economic Effects of the Spanish Conquestion of the Philippines and Mercantile Theory. Social Sciences. University of Texas, Texas.
+
+Lipka, Michael. "5 facts about Catholicism in the Philippines." *Pew Research Center.* 9 January 2015. 05 December 2020.
