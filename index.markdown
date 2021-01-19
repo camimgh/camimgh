@@ -10,4 +10,4 @@ As you can see, the website's a little bare. I'm currently working on developing
 
 Thanks for being patient!
 
-You can find my resume here.
+You can find my resume [here](/resume/).
